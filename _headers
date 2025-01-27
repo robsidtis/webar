@@ -1,0 +1,14 @@
+/Build/*.data.gz
+Content-Encoding: gz
+
+/Build/*.wasm.gz
+Content-Encoding: gz
+Content-Type: application/wasm
+
+/Build/*.js.gz
+Content-Encoding: gz
+Content-Type: application/javascript
+
+/Build/*.symbols.json.gz
+Content-Encoding: gz
+Content-Type: application/octet-stream
